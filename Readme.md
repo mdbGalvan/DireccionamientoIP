@@ -1,6 +1,6 @@
 ***
 >**Autora:**         *María D. Batista Galván*  
->**Fecha:**          *Martes 14 de Marzo de 2013*  
+>**Fecha:**          *Jueves 14 de Marzo de 2013*  
 >**Asignatura:**     *Redes y Sistemas Distribuidos*  
 >**Cuestionario:**  **Actividad 4: Direccionamiento IP*  
 ***
